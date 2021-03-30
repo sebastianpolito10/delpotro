@@ -52,7 +52,7 @@ width: 100%;
 }
 
 .imgheader{
-width: 60%;
+width: 50%;
 float: left;
 }
 
@@ -62,7 +62,7 @@ height: 450px;
 }
 
 .imgdelpos{
-transition: 1s;
+transition-duration: 1s;
 }
 
 .imgdelpos img{
@@ -80,7 +80,7 @@ height: 450px;
 }
 
 .txtdelpo{
-max-width: 48%;
+max-width: 49%;
 float: right;
 font-size: 21px;
 background-color: #969696;
@@ -104,7 +104,7 @@ width: 100%;
 }	
 
 .imgheaders{
-width: 60%;
+width: 50%;
 float: right;
 }
 
@@ -136,7 +136,7 @@ font-weight: bold;
 }
 
 .txtdptxt{
-font-size: 40px;
+font-size: 35px;
 }
 
 .clearfloat{
@@ -193,4 +193,5 @@ padding-bottom: 5px;
 .torneo{
 margin-left: 5%;
 font-size: 19px;
+padding-top: 3%;
 }		
