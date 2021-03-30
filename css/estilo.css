@@ -74,6 +74,11 @@ height: 450px;
 transform: scale(0.9);
 }
 
+.imgdelpost img{
+max-width: 48%;
+height: 450px;
+}
+
 .txtdelpo{
 max-width: 48%;
 float: right;
